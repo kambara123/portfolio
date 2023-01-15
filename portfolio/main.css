@@ -30,7 +30,7 @@ footer {
 /* 文字のレスポンシブ */
 	/*960px以上PC版*/
 .title{
-	font-size: 4rem;
+	font-size: 5rem;
 	background-color: gray;
 	border-radius: 5px;
 	border-left: solid 15px black;
